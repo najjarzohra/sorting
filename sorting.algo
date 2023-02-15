@@ -1,0 +1,10 @@
+PROCEDURE swap( var tab:ARRAY_OF INTEGER)
+VAR
+i,j :INTEGER ;
+BEGIN
+    FOR i FROM 1 TO n-1
+        while (a[j-1]>a[j]) do 
+        swap (a[j] & a[j-1]);
+
+    END_FOR
+END
